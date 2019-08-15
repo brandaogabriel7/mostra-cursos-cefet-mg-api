@@ -7,6 +7,8 @@ const coursesFilePath = './json/courses.json';
 function createCourseObj(reqBody) {
     return {
         id: reqBody.id,
+        idtTipo: reqBody.idtTipo,
+        caminhoImagem: reqBody.caminhoImagem,
         nome: reqBody.nome,
         apresentacao: reqBody.apresentacao,
         objetivo: reqBody.objetivo,
