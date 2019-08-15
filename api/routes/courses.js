@@ -8,8 +8,13 @@ router.get('/', (req, res, next) => {
 });
 
 router.post('/', (req, res, next) => {
-    res.status(200).json({
-        message: 'POST request'
+    const curso = {
+        nome: req.body.nome,
+        apresentacao: req.body.apresentacao
+    }
+    res.status(201).json({
+        message: 'POST request',
+        curso: curso
     });
 });
 
