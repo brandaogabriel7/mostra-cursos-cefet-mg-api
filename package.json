@@ -1,0 +1,27 @@
+{
+  "name": "mostra-cursos-cefet-mg-api",
+  "version": "1.0.0",
+  "description": "API com dados para os aplicativos da Mostra de Cursos do CEFET-MG.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandaogabriel7/mostra-cursos-cefet-mg-api.git"
+  },
+  "keywords": [
+    "mostra",
+    "cursos",
+    "cefet"
+  ],
+  "author": "Gabriel Brandão",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/brandaogabriel7/mostra-cursos-cefet-mg-api/issues"
+  },
+  "homepage": "https://github.com/brandaogabriel7/mostra-cursos-cefet-mg-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
