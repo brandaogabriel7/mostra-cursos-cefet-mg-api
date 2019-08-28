@@ -23,7 +23,7 @@ const crh = {
     deleteCourse: (path, id) => {
         const cursos = JSON.parse(fs.readFileSync(path));
         const cursoParaExluir = cursos.filter(element => element.id == id)[0];
-        cursos.splice(cursos.indexOf(cursoParaExluir));
+        cursos.splice(cursos.indexOf(cursoParaExluir), 1);
         fs.writeFileSync(path, JSON.stringify(cursos));
     }
 }
