@@ -20,9 +20,7 @@ function createCourseObj(reqBody) {
 }
 
 router.get('/', (req, res, next) => {
-    res.status(200).json({
-        data: crh.getAllCourses(coursesFilePath)
-    })
+    res.status(200).json(crh.getAllCourses(coursesFilePath));
 });
 
 router.post('/', (req, res, next) => {
