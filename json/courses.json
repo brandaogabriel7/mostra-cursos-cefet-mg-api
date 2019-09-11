@@ -1,1 +1,462 @@
-[{"id":"1","idtTipo":"tecnico","caminhoImagem":"https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/BH_Edificacoes.jpg_1599748976.jpg","nome":"Edificações","apresentacao":["O curso técnico em Edificações faz interface entre as áreas técnica e administrativa, com foco no planejamento de obras, sistemas construtivos, controle de qualidade em materiais de construção e execução de projetos, conforme as normas técnicas de segurança e legislação específica."],"objetivo":["Formar profissionais com conhecimento técnicos e gerenciais na área de construção civil, em todos os seus segmentos, com ênfase nas construções prediais, na elaboração de orçamento de obras, na comercialização de produtos e equipamentos especializados da área, no desenvolvimento de projetos e acompanhamento de obras civis."],"perfilProfissional":["O técnico em Edificações desenvolve projetos e pesquisas tecnológicas, orienta e coordena equipes de trabalho na execução de serviços de manutenção de equipamentos e de instalações em edificações. Efetua também levantamentos topográficos de materiais para estimativa de custo."],"campoAtuacao":[" Empresas públicas e privadas de construção civil;","Escritórios de projetos e de construção civil;","Canteiro de obras;","Obras no setor de edificações;","Laboratórios de análise de solos."],"formasOferta":["Integrado, em 3 anos - Diurno","Integrado, em 4 anos - Noturno - PROEJA (para maiores de 18 anos)","Subsequente, em 2 anos - Noturno","Concomitância externa, em 2 anos - Noturno"],"campi":["Belo Horizonte - Departamento de Engenharia Civil - 31 3319-6813","Araxá - 34 3669-4528","Timóteo - 31 3845-4626","Varginha - 35 3690-4215","Curvelo - Departamento de Engenharia Civil e Meio Ambiente - 38 3729-3923"]},{"id":"2","idtTipo":"tecnico","caminhoImagem":"https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/BH_Eletromecanica.jpg_1599748976.jpg","nome":"Eletromecânica","apresentacao":["O curso técnico em Eletromecânica integra as áreas de instrumentação e controle de processos industriais com a eletrônica e mecânica industrial no setor produtivo, manutenção de equipamentos e instalações eletroeletrônicas industriais, observando normas técnicas e de segurança, além da proposição de estudos do uso eficiente de energia elétrica."],"objetivo":["Formar profissionais com conhecimentos tecnológicos mais abrangentes e com versatilidade nas duas áreas pilares desse curso: elétrica e mecânica. Otimizar sistemas eletromecânicos, programar e executar manutenção preventiva e corretiva em máquinas e equipamentos, dentre outros, constituem objetivos relevantes que se desenvolvem ao longo do curso."],"perfilProfissional":["O técnico em Eletromecânica deve ser capaz de projetar e instalar sistemas de acionamento e controle eletroeletrônicos, programar e executar atividades que envolvem controle de processos, projetos elétricos, eletrônica industrial, controles lógicos programáveis e operações de máquinas elétricas."],"campoAtuacao":["Concessionárias de energia elétrica;","Empresas de manutenção e automação industrial;","Empresas de refrigeração, de informática e de equipamentos e instalações eletromecânicas;","Indústria petroquímica, automobilística, ferroviária;","Laboratórios de controle de qualidade, de manutenção e de pesquisa;"],"formasOferta":["Integrado, em 3 anos - Diurno","Subsequente, em 2 anos - Noturno","Concomitância externa, em 2 anos - Noturno","Subsequente, em 2 anos - Noturno","Concomitância externa, em 2 anos - Noturno"],"campi":["Belo Horizonte - 31 3319-7154","Leopoldina - Departamento de Computação e Mecânica - 32 3449-2312","Divinópolis - Departamento de Engenharia Mecatrônica - 37 3229-1157"]},{"id":"3","idtTipo":"tecnico","caminhoImagem":"https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/BH_Eletronica.jpg_1599748976.jpg","nome":"Eletrônica","apresentacao":["O curso técnico em Eletrônica aborda conteúdos tecnológicos convencionais e de ponta, abrangendo, dentre outras, as áreas de controle, automação, microprocessamento, equipamentos eletrônicos, biotecnologia e telecomunicações. Proporciona ao aluno desenvolver sistemas eletrônicos de pequeno porte."],"objetivo":["Formar profissional capacitado para participar do desenvolvimento de projetos, executar instalação e manutenção de equipamentos e sistemas eletrônicos, bem como lidar com procedimentos de gestão da produção no setor eletroeletrônico industrial."],"perfilProfissional":["O técnico em Eletrônica presta serviços nas mais diversas áreas tecnológicas, apoiando engenheiros, projetistas e operadores de máquinas e equipamentos. Presta assistência técnica na comercialização, operação, instalação e manutenção de dispositivos e equipamentos eletrônicos."],"campoAtuacao":["Empresas de informática, telecomunicações e de produtos eletrônicos;","Indústrias automobilística e de automação;","Indústrias de biotecnologia e eletromedicina;","Indústrias de mineração, metalurgia e siderurgia;","Laboratórios de eletrônica de potência e de sistemas digitais;","Laboratórios de controle, qualidade e de manutenção;","Órgãos governamentais e particulares na área de aeronáutica e da marinha."],"formasOferta":["Integrado, em 3 anos - Diurno", "Subsequente, em 2 anos - Noturno", "Concomitância externa, em 2 anos - Noturno"],"campi":["Belo Horizonte - 31 3319-6748","Araxá - 34 3669-4515"]}]
+[
+    {
+        "id": "1",
+        "idtTipo": "tecnico",
+        "caminhoImagem": "https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/BH_Edificacoes.jpg_1599748976.jpg",
+        "nome": "Edificações",
+        "apresentacao": [
+            "O curso técnico em Edificações faz interface entre as áreas técnica e administrativa, com foco no planejamento de obras, sistemas construtivos, controle de qualidade em materiais de construção e execução de projetos, conforme as normas técnicas de segurança e legislação específica."
+        ],
+        "objetivo": [
+            "Formar profissionais com conhecimento técnicos e gerenciais na área de construção civil, em todos os seus segmentos, com ênfase nas construções prediais, na elaboração de orçamento de obras, na comercialização de produtos e equipamentos especializados da área, no desenvolvimento de projetos e acompanhamento de obras civis."
+        ],
+        "perfilProfissional": [
+            "O técnico em Edificações desenvolve projetos e pesquisas tecnológicas, orienta e coordena equipes de trabalho na execução de serviços de manutenção de equipamentos e de instalações em edificações. Efetua também levantamentos topográficos de materiais para estimativa de custo."
+        ],
+        "campoAtuacao": [
+            "Empresas públicas e privadas de construção civil;",
+            "Escritórios de projetos e de construção civil;",
+            "Canteiro de obras;",
+            "Obras no setor de edificações;",
+            "Laboratórios de análise de solos."
+        ],
+        "formasOferta": [
+            "Integrado, em 3 anos - Diurno",
+            "Integrado, em 4 anos - Noturno - PROEJA (para maiores de 18 anos)",
+            "Subsequente, em 2 anos - Noturno",
+            "Concomitância externa, em 2 anos - Noturno"
+        ],
+        "campi": [
+            "Belo Horizonte - Departamento de Engenharia Civil - 31 3319-6813",
+            "Araxá - 34 3669-4528",
+            "Timóteo - 31 3845-4626",
+            "Varginha - 35 3690-4215",
+            "Curvelo - Departamento de Engenharia Civil e Meio Ambiente - 38 3729-3923"
+        ]
+    },
+    {
+        "id": "2",
+        "idtTipo": "tecnico",
+        "caminhoImagem": "https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/BH_Eletromecanica.jpg_1599748976.jpg",
+        "nome": "Eletromecânica",
+        "apresentacao": [
+            "O curso técnico em Eletromecânica integra as áreas de instrumentação e controle de processos industriais com a eletrônica e mecânica industrial no setor produtivo, manutenção de equipamentos e instalações eletroeletrônicas industriais, observando normas técnicas e de segurança, além da proposição de estudos do uso eficiente de energia elétrica."
+        ],
+        "objetivo": [
+            "Formar profissionais com conhecimentos tecnológicos mais abrangentes e com versatilidade nas duas áreas pilares desse curso: elétrica e mecânica. Otimizar sistemas eletromecânicos, programar e executar manutenção preventiva e corretiva em máquinas e equipamentos, dentre outros, constituem objetivos relevantes que se desenvolvem ao longo do curso."
+        ],
+        "perfilProfissional": [
+            "O técnico em Eletromecânica deve ser capaz de projetar e instalar sistemas de acionamento e controle eletroeletrônicos, programar e executar atividades que envolvem controle de processos, projetos elétricos, eletrônica industrial, controles lógicos programáveis e operações de máquinas elétricas."
+        ],
+        "campoAtuacao": [
+            "Concessionárias de energia elétrica;",
+            "Empresas de manutenção e automação industrial;",
+            "Empresas de refrigeração, de informática e de equipamentos e instalações eletromecânicas;",
+            "Indústria petroquímica, automobilística, ferroviária;",
+            "Laboratórios de controle de qualidade, de manutenção e de pesquisa;"
+        ],
+        "formasOferta": [
+            "Integrado, em 3 anos - Diurno",
+            "Subsequente, em 2 anos - Noturno",
+            "Concomitância externa, em 2 anos - Noturno",
+            "Subsequente, em 2 anos - Noturno",
+            "Concomitância externa, em 2 anos - Noturno"
+        ],
+        "campi": [
+            "Belo Horizonte - 31 3319-7154",
+            "Leopoldina - Departamento de Computação e Mecânica - 32 3449-2312",
+            "Divinópolis - Departamento de Engenharia Mecatrônica - 37 3229-1157"
+        ]
+    },
+    {
+        "id": "3",
+        "idtTipo": "tecnico",
+        "caminhoImagem": "https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/BH_Eletronica.jpg_1599748976.jpg",
+        "nome": "Eletrônica",
+        "apresentacao": [
+            "O curso técnico em Eletrônica aborda conteúdos tecnológicos convencionais e de ponta, abrangendo, dentre outras, as áreas de controle, automação, microprocessamento, equipamentos eletrônicos, biotecnologia e telecomunicações. Proporciona ao aluno desenvolver sistemas eletrônicos de pequeno porte."
+        ],
+        "objetivo": [
+            "Formar profissional capacitado para participar do desenvolvimento de projetos, executar instalação e manutenção de equipamentos e sistemas eletrônicos, bem como lidar com procedimentos de gestão da produção no setor eletroeletrônico industrial."
+        ],
+        "perfilProfissional": [
+            "O técnico em Eletrônica presta serviços nas mais diversas áreas tecnológicas, apoiando engenheiros, projetistas e operadores de máquinas e equipamentos. Presta assistência técnica na comercialização, operação, instalação e manutenção de dispositivos e equipamentos eletrônicos."
+        ],
+        "campoAtuacao": [
+            "Empresas de informática, telecomunicações e de produtos eletrônicos;",
+            "Indústrias automobilística e de automação;",
+            "Indústrias de biotecnologia e eletromedicina;",
+            "Indústrias de mineração, metalurgia e siderurgia;",
+            "Laboratórios de eletrônica de potência e de sistemas digitais;",
+            "Laboratórios de controle, qualidade e de manutenção;",
+            "Órgãos governamentais e particulares na área de aeronáutica e da marinha."
+        ],
+        "formasOferta": [
+            "Integrado, em 3 anos - Diurno",
+            "Subsequente, em 2 anos - Noturno",
+            "Concomitância externa, em 2 anos - Noturno"
+        ],
+        "campi": [
+            "Belo Horizonte - 31 3319-6748",
+            "Araxá - 34 3669-4515"
+        ]
+    },
+    {
+        "id": "4",
+        "idtTipo": "tecnico",
+        "caminhoImagem": "https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/BH_Eletrot-cnica.jpg_1599748976.jpg",
+        "nome": "Eletrotécnica",
+        "apresentacao": [
+            "O curso técnico em Eletrotécnica atende a uma grande demanda do setor produtivo de geração, transmissão e distribuição de energia elétrica, além de ministrar bases de conhecimento tecnológico para o desenvolvimento de projetos de instalações elétricas e de infraestrutura para sistemas de telecomunicações em edificações."
+        ],
+        "objetivo": [
+            "Formar profissionais capacitados para supervisionar os processos industriais de controle e automação, bem como efetuar a manutenção e instalação do sistema elétrico de potência no que tange às máquinas, aos equipamentos e seus periféricos."
+        ],
+        "perfilProfissional": [
+            "O técnico em Eletrotécnica deve ser capaz de planejar, executar e efetuar manutenção de instalações elétricas, sistemas de acionamentos elétricos com automação. Aplica medidas para o uso eficiente da energia elétrica e de fontes energéticas alternativas. Cuida da instalação e manutenção dos sistemas de iluminação e sinalização de seguranças."
+        ],
+        "campoAtuacao": [
+            "Empresas concessionárias de energia elétrica;",
+            "Empresas de geração, transmissão e distribuição de energia elétrica;",
+            "Empresas de telefonia fixa e móvel;",
+            "Empresas de saneamentos e água;",
+            "Escritórios de projetos elétricos;",
+            "Indústrias siderúrgicas, mineradoras e petrolíferas;",
+            "Indústrias de fabricação de máquinas, componentes e equipamentos elétricos;",
+            "Indústrias em geral nas atividades de manutenção e automação."
+        ],
+        "formasOferta": [
+            "Integrado, em 3 anos - Diurno",
+            "Subsequente, em 2 anos - Noturno",
+            "Concomitância externa, em 2 anos - Noturno"
+        ],
+        "campi": [
+            "Belo Horizonte - 31 3319-6748",
+            "Leopoldina - Departamento de Eletroeletrônica - 32 3449-2310",
+            "Curvelo - Departamento de Eletroeletrônica - 38 3729-3923",
+            "Nepomuceno - 35 3861-4503"
+        ]
+    },
+    {
+        "id": "5",
+        "idtTipo": "tecnico",
+        "caminhoImagem": "https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/BH_Equipamentos_Biomedicos.jpg_1599748976.jpg",
+        "nome": "Equipamentos Biomédicos",
+        "apresentacao": [
+            "O curso técnico em Equipamentos Biomédicos visa atender a uma significativa demanda da área de projetos, instalação e manutenção de equipamentos médicos hospitalares, reunindo os conhecimentos básicos de eletrônica, eletrotécnica e mecânica, além de anatomia e fisiologia humana."
+        ],
+        "objetivo": [
+            "Visa formar profissionais qualificados para atuar no gerenciamento e instalação de equipamentos médicohospitalares, além de prepará-los para supervisionar e executar a manutenção preventiva e corretiva, incluindo testes de segurança elétrica contra riscos de choque para pacientes e operadores."
+        ],
+        "perfilProfissional": [
+            "O técnico em Equipamentos Biomédicos é capacitado para elaborar rotinas e executar serviços de manutenção e calibração em equipamentos biomédicos, desenvolver circuitos para projetos de equipamentos de baixa e média complexidade, supervisionar e coordenar o setor de manutenção de equipamentos médico-hospitalares, bem como  promover treinamentos específicos para os operadores da área."
+        ],
+        "campoAtuacao": [
+            "Empresas de comercialização de equipamentos biomédicos;",
+            "Hospitais, clínicas e postos de saúde;", 
+            "Indústrias e empresas de manutenção hospitalar;",
+            "Instituições de pesquisa;"
+        ],
+        "formasOferta": [
+            "Integrado, em 3 anos - Diurno"
+        ],
+        "campi": [
+            "Belo Horizonte - 31 3319-6748"
+        ]
+    },
+    {
+        "id": "6",
+        "idtTipo": "tecnico",
+        "caminhoImagem": "https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/BH_Estradas.jpg_1599748976.jpg",
+        "nome": "Estradas",
+        "apresentacao": [
+            "O Curso técnico em Estradas está direcionado para o planejamento, o projeto, a execução, o gerenciamento e a manutenção das vias terrestres, atendendo às necessidades técnicas da produção de bens e serviços."
+        ],
+        "objetivo": [
+            "Formar profissionais capacitados para gerenciar e executar atividades ligadas à topografia, ao geoprocessamento, ao projeto geométrico, à preservação ambiental, à sinalização do tráfego, à pavimentação, à drenagem, à terraplenagem, considerando as normas técnicas e de segurança."
+        ],
+        "perfilProfissional": [
+            "O técnico em Estradas pode atuar nos serviços pertinentes à infraestrutura de transportes. Destacam-se: topografia, geoprocessamento, projeto geométrico, geotecnia, terraplenagem, drenagem, materiais e pavimentação.Além disso, pode participar da execução de obras de construção e manutenção de rodovias, ferrovias, hidrovias, gasodutos, pontes, viadutos, túneis, canalizações, minerações, barragens, represas, hidrelétricas, portos e aeroportos."
+        ],
+        "campoAtuacao": [
+            "Empresas de consultoria e projetos em obras de infraestrutura;", 
+            "Empresas construtoras;", 
+            "Empresas públicas para manutenção de infraestrutura de transportes;",
+            "Empresas de topografia e geoprocessamento;", 
+            "Empresas de locação de equipamentos pesados;",
+            "Empresas mineradoras;",
+            "Empresas privadas de manutenção e restauração de rodovias e ferrovias;",
+            "Órgãos de fiscalização;", 
+            "Usinas de asfalto;"
+        ],
+        "formasOferta": [
+            "Integrado, em 3 anos - Diurno",
+            "Subsequente, em 2 anos - Noturno",
+            "Concomitância externa, em 2 anos - Noturno"
+        ],
+        "campi": [
+            "Belo Horizonte - Departamento de Engenharia de Transportes - 31 3319-7107"
+        ]
+    },
+    {
+        "id": "7",
+        "idtTipo": "tecnico",
+        "caminhoImagem": "https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/BH_Hospedagem.jpg_1599748976.jpg",
+        "nome": "Hospedagem",
+        "apresentacao": [
+            "O curso técnico em Hospedagem, ligado ao lazer e à hospitalidade, insere conceitos e aplicações práticas relacionadas à área de meios de hospedagem em empresas e realização de eventos que movimentam a cadeia produtiva do turismo."
+        ],
+        "objetivo": [
+            "Formar profissionais capazes de executar atividades inerentes à recepção e ao atendimento a clientes, bem como prestar suporte ao hóspede durante sua estada. Estabelecer fluxos operacionais de reserva, governança, recepção e prestar informações sobre turismo e estrutura local constituem também metas a serem alcançadas."
+        ],
+        "perfilProfissional": [
+            "O técnico em Hospedagem realiza rotinas operacionais e técnicas, coordena equipes de trabalho com ética, responsabilidade social e ambiental, tendo em vista a construção de uma sociedade baseada nas premissas do desenvolvimento sustentável. Exercita procedimentos operacionais para venda, montagem, estruturação e controle dos espaços de eventos dos meios de hospedagem. Supervisiona e operacionaliza a higienização e arrumação das unidades habitacionais, além de controlar materiais de suprimento para essas unidades."
+        ],
+        "campoAtuacao": [
+            "Agências de turismo especializadas;",
+            "Bares e restaurantes;", 
+            "Hotéis, pousadas, flats ou resorts;",
+            "Embarcações e hospitais;",
+            "Empresas organizadoras de eventos públicos e particulares."
+        ],
+        "formasOferta": [
+            "Integrado, em 3 anos - Diurno",
+            "Subsequente, em 1 ano e meio - Noturno",
+            "Concomitância externa, em 2 anos - Noturno"
+        ],
+        "campi": [
+            "Belo Horizonte - Departamento de Ciências Sociais Aplicadas - 31 3319-7095"
+        ]
+    },
+    {
+        "id": "8",
+        "idtTipo": "tecnico",
+        "caminhoImagem": "https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/BH_Informatica.jpg_1599748976.jpg",
+        "nome": "Informática",
+        "apresentacao": [
+            "O curso técnico em Informática desenvolve softwares e programação de computadores, seguindo especificações e paradigmas da lógica e das linguagens. Aborda também montagem, instalação e manutenção de equipamentos e de redes de informática, tendo em vista a gestão da informação por meio do uso da tecnologia digital. Projetos de melhorias nos sistemas convencionais de programação e implementação de aplicativos e sistemas operacionais constituem fundamentos permanentes do ensino-aprendizagem no Curso."
+        ],
+        "objetivo": [
+            "Formar profissionais com atitudes éticas, críticas e ativas, capacitados a exercer atividades relacionadas a hardware e software, ao desenvolvimento de projetos, instalações, produção e manutenção de sistemas informatizados, e capazes de supervisionar equipes de trabalho dessa área."
+        ],
+        "perfilProfissional": [
+            "O técnico em Informática realiza testes de programas de computador, mantendo registros que possibilitem análises e refinamento dos resultados. Executa manutenção de programas de computadores implantados e utiliza ambientes de desenvolvimento de sistemas operacionais e de banco de dados. Implementa projetos e aplica tecnologia da informação em todo tipo de empresa ou em qualquer área do setor produtivo."
+        ],
+        "campoAtuacao": [
+            "Instituições públicas, privadas e do terceiro setor que demandam sistemas computacionais, especialmente envolvendo:",
+            "- programação de computadores e banco de dados;", 
+            "- operação de manutenção de sistemas operacionais;",
+            "- organização, coleta e documentação de informações sobre desenvolvimento de projetos;",
+            "- necessidades de treinamento e suporte técnico aos usuários;",
+            "- métodos e técnicas de gestão administrativa e de pessoas;",
+            "- normas técnicas na elaboração de projetos e layouts."
+        ],
+        "formasOferta": [
+            "Integrado, em 3 anos - Diurno"
+        ],
+        "campi": [
+            "Belo Horizonte - Departamento de Computação - 31 3319-6870",
+            "Leopoldina - Departamento de Computação e Mecânica - 32 3449-2310",
+            "Divinópolis - Departamento de Informática, Gestão e Design - 37 3229-1172",
+            "Timóteo - 31 3845-4625",
+            "Varginha - 35 3690-4215",
+            "Contagem - 31 3368- 4331"
+        ]
+    },
+    {
+        "id": "9",
+        "idtTipo": "tecnico",
+        "caminhoImagem": "https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/BH_Mecanica.jpg_1599748976.jpg",
+        "nome": "Mecânica",
+        "apresentacao": [
+            "O curso técnico em Mecânica desenvolve conhecimentos e habilidades da área técnica/gerencial de processos industriais que envolvem projetos, desenho técnico (CAD), conformação mecânica, ciência dos materiais, soldagem, gestão da qualidade ambiental, ensaios mecânicos, automação, manutenção de máquinas e equipamentos, sistemas hidráulicos e pneumáticos."
+        ],
+        "objetivo": [
+            "Formar profissionais capazes de propor alternativas viáveis para solução de problemas e otimização de processos nos diversos segmentos da indústria, buscando o aumento da qualidade e produtividade, conforme normas técnicas e de segurança."
+        ],
+        "perfilProfissional": [
+            "O técnico em Mecânica elabora projetos de produtos, ferramentas, máquinas e equipamentos mecânicos. Planeja, aplica e controla procedimentos de instalação e de manutenção mecânica de máquinas, além de controlar processos de fabricação com foco na qualidade e produtividade. Aplica técnicas de medição e ensaios mecânicos e especifica materiais para construção mecânica."
+        ],
+        "campoAtuacao": [
+            "• Indústrias de transformação;",
+            "• Fábricas de máquinas, equipamentos e componentes mecânicos;", 
+            "• Montadoras de automóveis e indústrias do ramo;",
+            "• Laboratórios de controle de qualidade e análise metalográfica;",
+            "• Indústrias petrolíferas e seus fornecedores;",
+            "• Empresas de manutenção e automação;",
+            "• Laboratórios de hidráulica e pneumática;",
+            "• Laboratórios de máquinas operatrizes;",
+            "• Laboratórios de máquinas térmicas e motores."
+        ],
+        "formasOferta": [
+            "Integrado, em 3 anos - Diurno",
+            "Integrado, em 4 anos - Noturno - PROEJA (para maiores de 18 anos)",
+            "Subsequente, em 2 anos - Noturno",
+            "Concomitância externa, em 2 anos - Noturno"
+        ],
+        "campi": [
+            "Belo Horizonte - Departamento de Engenharia de Materiais - 31 3319-7154",
+            "Leopoldina - Departamento de Computação e Mecânica - 32 3449-2312",
+            "Araxá - 34 3669-4515"
+        ]
+    },
+    {
+        "id": "10",
+        "idtTipo": "tecnico",
+        "caminhoImagem": "https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/MECATRONICA.jpg_1599748976.jpg",
+        "nome": "Mecatrônica",
+        "apresentacao": [
+            "O Curso técnico em Mecatrônica está estruturado para proporcionar formação integral ao aluno, capacitando o para atuar nas relações produtivas das áreas industriais de instalação e manutenção de sistemas mecatrônicos – sistemas formados a partir da integração das áreas de eletroeletrônica, mecânica, automação e informática – mediante a construção de competências que evidenciam a formação qualificada ante às tendências do mercado de trabalho."
+        ],
+        "objetivo": [
+            "Formar profissionais com visão abrangente e versatilidade para desenvolver projetos que envolvem conhecimentos tecnológicos de eletroeletrônica, mecânica, automação e informática, em conformidade com as normas de segurança e sustentabilidade ambiental."
+        ],
+        "perfilProfissional": [
+            "O técnico em Mecatrônica é capacitado para lidar com servomecanismos, motores elétricos, sensores, atuadores, comandos numéricos computadorizados (CNC), projetos e manufatura assistidos por computador (CAD/ CAM). Executa e instala máquinas e equipamentos automatizados e sistemas robotizados."
+        ],
+        "campoAtuacao": [
+            "• Indústrias automobilísticas e metalmecânica;",
+            "• Empresas de manutenção e automação industrial;",
+            "• Fabricantes de máquinas, componentes e equipamentos robotizados;",
+            "• Laboratórios de controle de qualidade, de manutenção e de pesquisa;",
+            "• Prestadoras de serviço na área de mecatrônica."
+        ],
+        "formasOferta": [
+            "Integrado, em 3 anos - Diurno",
+            "Subsequente, em 2 anos - Noturno",
+            "Concomitância externa, em 2 anos - Noturno"
+        ],
+        "campi": [
+            "Belo Horizonte - Departamento de Engenharia de Materiais - 31 3319-7154 ",
+            "Varginha - Departamento de Mecatrônica - 35 3690-4215",
+            "Nepomuceno - 35 3861-4503"
+        ]
+    },
+    {
+        "id": "11",
+        "idtTipo": "tecnico",
+        "caminhoImagem": "https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/MEIO-AMBIENTE.jpg_1599748976.jpg",
+        "nome": "Meio Ambiente",
+        "apresentacao": [
+            "O curso técnico em Meio Ambiente trata de ações de preservação dos recursos naturais, com controle e avaliação dos fatores que causam impacto nos ciclos de matéria e energia, diminuindo os efeitos causados no solo, na água e no ar. Abrange estudos de ecossistemas, poluição ambiental, desenvolvimento e tecnologias sustentáveis, gestão e educação ambiental."
+        ],
+        "objetivo": [
+            "Formar profissionais capazes de identificar processos de intervenções humanas no meio ambiente para promover a preservação e conservação dos recursos naturais, conforme as políticas e legislação ambientais vigentes, unindo sustentabilidade e desenvolvimento de modo a contribuir para o crescimento da sociedade com respeito ao meio ambiente."
+        ],
+        "perfilProfissional": [
+            "O técnico em Meio Ambiente coleta armazena e interpreta informações, dados e documentações ambientais, auxiliando na elaboração de laudos, relatórios e estudos ambientais. Colaboram na elaboração, acompanhamento e execução de sistemas de gestão ambiental e organiza programas de preservação ambiental, de redução, reúso e reciclagem. Identifica as intervenções ambientais, analisa suas conseqüências e operacionaliza a execução de ações para otimização, minimização e emediação de seus efeitos"
+        ],
+        "campoAtuacao": [
+            "• Cooperativas e associações voltadas à preservação ambiental;",
+            "• Empresas de consultoria associadas ao meio ambiente;",
+            "• Estações de tratamento de resíduos;",
+            "• Instituições de pesquisa e desenvolvimento tecnológico;",
+            "• Instituições públicas e privadas;",
+            "• Laboratórios de educação ambiental;",
+            "• Unidades de conservação ambiental."
+        ],
+        "formasOferta": [
+            "Integrado, em 3 anos - Diurno",
+            "Subsequente, em 2 anos - Noturno"
+        ],
+        "campi": [
+            "Belo Horizonte - Departamento de Engenharia Ambiental - 31 3319-7120",
+            "Curvelo - Departamento de Engenheria Civil e Meio Ambiente - 38 3729-3923"
+        ]
+    },
+    {
+        "id": "12",
+        "idtTipo": "tecnico",
+        "caminhoImagem": "https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/QUIMICA.jpg_1599748976.jpg",
+        "nome": "Química",
+        "apresentacao": [
+            "O curso técnico em Química é organizado de modo a propiciar uma formação sólida e abrangente dos conteúdos da química, em todas as suas modalidades de cunho científico e tecnológico e de domínio de técnicas necessárias ao trabalho em laboratórios, no controle de qualidade de matérias primas e produtos, conforme normas técnicas e de segurança, bem como no controle e operação de processos industriais."
+        ],
+        "objetivo": [
+            "Formar profissionais para planejar, coordenar, executar, controlar, supervisionar processos industriais e laboratoriais, além de participar no desenvolvimento de produtos e validação de métodos."
+        ],
+        "perfilProfissional": [
+            "O técnico em Química deve ser capaz de dominar técnicas básicas necessárias ao trabalho em laboratórios, executar atividades relacionadas à produção, à otimização de processos e produtos e ao controle ambiental em diversos segmentos da indústria. Pode ainda conduzir análises químicas qualitativas e quantitativas, físico-químicas e microbiológicas, bem como executar procedimentos conforme normas de segurança no trabalho. Dentre outras atividades, emprega processos de manuseio, tratamento e descarte de materiais e resíduos tendo em vista a gestão ambiental."
+        ],
+        "campoAtuacao": [
+            "• Empresas de comercialização e assistência técnica;",
+            "• Entidades de certificação de produtos;", 
+            "• Indústrias de alimentos, bebidas, siderurgia, petróleo, energia elétrica, mineração, tintas, vernizes, plásticos, borrachas, cosméticos, perfumes, produtos químicos e farmacêuticos, têxteis, domissanitários;",
+            "• Indústrias de adubos, fertilizantes e compostagem;",
+            "• Laboratórios de calibração, análise, pesquisa e controle de qualidade;",
+            "• Órgãos de fiscalização e vigilância sanitária;",
+            "• Órgãos de tratamento do lixo, de água e afluentes."
+        ],
+        "formasOferta": [
+            "Integrado, em 3 anos - Diurno",
+            "Subsequente, em 2 anos - Noturno",
+            "Concomitância externa, em 2 anos - Noturno"
+        ],
+        "campi": [
+            "Belo Horizonte - 31 3319-6748",
+            "Timóteo - Departamento de Metalurgia e Química - 31 3845-4624"
+        ]
+    },
+    {
+        "id": "13",
+        "idtTipo": "tecnico",
+        "caminhoImagem": "https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/REDE-DE-COMPUTADORES.jpg_1599748976.jpg",
+        "nome": "Redes de Computedores",
+        "apresentacao": [
+            "O curso técnico em Redes de Computadores está inserido no eixo tecnológico informação e comunicação que compreende tecnologias relacionadas à comunicação e ao processamento de dados e informações. Abrange os sistemas operacionais, protocolos de comunicação, equipamentos e arquitetura de redes e sua segurança."
+        ],
+        "objetivo": [
+            "Formar profissionais capacitados a exercer atividades que abrangem ações de concepção, desenvolvimento, implantação, operação, avaliação e manutenção de sistemas e tecnologias relacionadas à informática e às telecomunicações."
+        ],
+        "perfilProfissional": [
+            "O técnico em Redes de Computadores instala e configura dispositivos de comunicação digital e softwares em equipamentos de rede. Configura serviços de rede, tais como firewall, servidores web, correio eletrônico, servidores de notícias, e implementa recursos de segurança em redes de computadores."
+        ],
+        "campoAtuacao": [
+            "• Instituições públicas, privadas e do terceiro setor que demandem redes de computadores;",
+            "• Prestação autônoma de serviços, dentre outros, referentes a:",
+            "- diagnóstico e correção de falhas em redes;",
+            "- preparação, instalação e manutenção de cabeamentos de redes;",
+            "- configuração de acessos de usuários."
+        ],
+        "formasOferta": [
+            "Integrado, em 3 anos - Diurno"
+        ],
+        "campi": [
+            "Belo Horizonte - Departamento de Computação - 31 3319-6870",
+            "Nepomuceno - 35 3861-4503"
+        ]
+    },
+    {
+        "id": "14",
+        "idtTipo": "tecnico",
+        "caminhoImagem": "https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/TRANSITO.jpg_1599748976.jpg",
+        "nome": "Trânsito",
+        "apresentacao": [
+            "O curso técnico em Trânsito abrange os setores de transporte de passageiros urbano e regional, transporte de cargas, logística aplicada aos transportes e trânsito e engenharia de tráfego. A demanda desse técnico no atual cenário brasileiro é cada vez mais intensa, uma vez que os problemas relacionados à mobilidade urbana e à logística tornaram-se um dos principais entraves para o desenvolvimento sustentável."
+        ],
+        "objetivo": [
+            "Formar profissionais para atender às demandas atuais e futuras relativas à mobilidade e logística, urbana e regional: circulação viária; educação e segurança no trânsito; planejamento de transportes; planejamento, gerenciamento e operação do tráfego; transporte de passageiros; transporte de cargas e logística."
+        ],
+        "perfilProfissional": [
+            "O técnico em Trânsito participa da gestão, planejamento, projetos, implantação e operação de atividades relacionadas ao transporte de passageiros, à logística e transporte de cargas, educação e segurança no trânsito e engenharia de tráfego."
+        ],
+        "campoAtuacao": [
+            "• Agências reguladoras de transporte;",
+            "• Concessionárias rodoviárias e ferroviárias;", 
+            "• Empresas construtoras e de topografia;",
+            "• Empresas de consultorias de projetos;",
+            "• Empresas de engenharia de tráfego;",
+            "• Empresas de logística, operadoras de transporte público, operadoras de transporte de cargas;",
+            "• Empresas de operação e gestão de vias urbanas;",
+            "• Empresas de sinalização viária;",
+            "• Empresas públicas e privadas;",
+            "• Órgãos gestores de mobilidade urbana;"
+        ],
+        "formasOferta": [
+            "Integrado, em 3 anos - Diurno"
+        ],
+        "campi": [
+            "Belo Horizonte - Departamento de Engenharia de Transportes - 31 3319-7107"
+        ]
+    }
+]
