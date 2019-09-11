@@ -458,5 +458,251 @@
         "campi": [
             "Belo Horizonte - Departamento de Engenharia de Transportes - 31 3319-7107"
         ]
+    },
+    {
+        "id": "15",
+        "idtTipo": "graduacao",
+        "caminhoImagem": "https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/Eng-Computacao-BH-Folder-Curso-de-Graduacao-2.jpg_1599748976.jpg",
+        "nome": "Engenharia da Computação",
+        "apresentacao": [
+            "O Curso de Graduação em Engenharia de Computação, criado em 2007, possui quatro vertentes de formação: Engenharia de Software; Redes de Computadores e Sistemas Distribuídos; Sistemas de Automação e Processos Produtivos; e Sistemas Inteligentes. O curso oferece 40 vagas por semestre, turno diurno, com carga-horária de 4.380 horas/aula."
+        ],
+        "objetivo": [
+            "Formar profissionais para atuação no processo produtivo e no desenvolvimento técnico e científico do País, considerando-se os aspectos políticos, sociais, culturais, econômicos, ambientais, humanos e éticos abrangidos no escopo da Engenharia de Computação."
+        ],
+        "perfilProfissional": [
+            "O profissional terá sólida formação científica e tecnológica no campo da Engenharia de Computação. Será capaz, de forma crítica e criativa, de compreender, desenvolver e aplicar tecnologias para identificação, formulação e resolução de problemas."
+        ],
+        "campoAtuacao": [
+            "O Engenheiro de Computação atuará no projeto e desenvolvimento de sistemas computacionais de hardware e software em indústrias de software e eletroeletrônicos, empresas de telecomunicações e de automação industrial. Prestará consultorias em Tecnologia da Informação tanto em instituições financeiras quanto em Instituições de ensino e pesquisa."
+        ],
+        "formasOferta": [
+            "Diurno, 5 anos"
+        ],
+        "campi": [
+            "Belo Horizonte (campus II)"
+        ]
+    },
+    {
+        "id": "16",
+        "idtTipo": "graduacao",
+        "caminhoImagem": "https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/Eng-Eletrica-Folder-Curso-de-Graduacao-2.jpg_1599748976.jpg",
+        "nome": "Engenharia Elétrica",
+        "apresentacao": [
+            "O curso de graduação em Engenharia Elétrica, criado em 1979, garante ao profissional sólida base científica, preparando-o para a aplicação de novas tecnologias, para ênfase na pesquisa e na experiência profissional com visão social, ecológica e humanista."
+        ],
+        "objetivo": [
+            "O objetivo geral é formar profissionais com sólida base conceitual e prática nos conteúdos básicos, além de prepará-los para a atuação no processo produtivo e no desenvolvimento técnico-científico do País."
+        ],
+        "perfilProfissional": [
+            "O profissional estará apto a identificar, formular e resolver problemas, atuando no campo científico e tecnológico, com visão ampla das questões éticas, sociais e ambientais relacionadas à ciência e à tecnologia. Suas atribuições profissionais são definidas pela Resolução 1.010, de 22 de agosto de 2005 do sistema CONFEA/CREA."
+        ],
+        "campoAtuacao": [
+            "O profissional atua no campo industrial e empresarial, bem como em instituições de ensino, pesquisa e desenvolvimento, envolvendo as áreas afins da engenharia elétrica: sistemas de energia elétrica, qualidade, conservação e eficiência de energia, automação e controle de processos, instrumentação, microeletrônica e telecomunicações. Atua, ainda, em projetos, consultoria, gerenciamento e pesquisa de novos produtos e processos."
+        ],
+        "formasOferta": [
+            "Diurno, 5 anos"
+        ],
+        "campi": [
+            "Belo Horizonte (campus II)",
+            "Nepomuceno"
+        ]
+    },
+    {
+        "id": "17",
+        "idtTipo": "graduacao",
+        "caminhoImagem": "",
+        "nome": "Engenharia de Materiais",
+        "apresentacao": [
+            "O Curso de Engenharia de Materiais, implantado em 2008, foi o primeiro curso na área específica de materiais em instituições federais de ensino superior no estado de Minas Gerais. A criação do curso se deu em virtude da crescente ascensão, sobretudo no Estado, dos segmentos de mineração e siderurgia e das indústrias que processam ou fazem uso de materiais metálicos, poliméricos, cerâmicos, compósitos, semicondutores e biomateriais."
+        ],
+        "objetivo": [
+            "Capacitar profissionais que se diferenciem por agregar habilidades e competências para exercer, com excelência, atividades, principalmente, relacionadas a projetos, desenvolvimentos e aplicação dos diversos materiais de engenharia empregados na indústria moderna. Isso pode ser traduzido em um profissional com profundo conhecimento da interligação dos seguintes aspectos: processamento, estrutura, composição química e propriedades dos diversos materiais, objetivando uma performance mais adequada para atender a situações específicas."
+        ],
+        "perfilProfissional": [
+            "O Engenheiro de Materiais deve apresentar sólida base de conhecimentos em matemática, física e química, além de domínio das especificidades das disciplinas profissionalizantes. Interesse nos aspectos humanísticos, liderança, motivação, trabalho em equipe e administração de conflitos são algumas das habilidades desenvolvidas; assim como a sintonia com aspectos econômicos vigentes, noções de direito do trabalho, comercial, administrativo e tributário, noções de ecologia e legislação ambiental."
+        ],
+        "campoAtuacao": [
+            "A partir de uma base multidisciplinar, o profissional desenvolve novas tecnologias e materiais aplicados à engenharia. De forma pragmática, o Engenheiro de Materiais poderá formular e resolver problemas relacionados à indústria; planejar, supervisionar e coordenar projetos; atuar na área de ensino e pesquisa; padronizar e controlar a qualidade de produtos e processos de fabricação; desenvolver e aplicar modelos físicos e matemáticos na solução ou adequação de situações; realizar assistência técnica, assessoria, consultoria, perícia, avaliação, laudo, parecer técnico e coordenar equipe de instalação, montagem, operação, reparo ou manutenção de equipamentos."
+        ],
+        "formasOferta": [
+            "Diurno, 5 anos (exceto nono e décimo períodos)"
+        ],
+        "campi": [
+            "Belo Horizonte (campus I)"
+        ]
+    },
+    {
+        "id": "18",
+        "idtTipo": "graduacao",
+        "caminhoImagem": "https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/Eng-Mecanica-Folder-Curso-de-Graduacao-2.jpg_1599748976.jpg",
+        "nome": "Engenharia Mecânica",
+        "apresentacao": [
+            "O curso de graduação em Engenharia Mecânica tem mais de 40 anos na formação profissionais aptos a exercerem várias funções nos diversos ramos da engenharia. O curso tem uma estrutura curricular que propicia a formação em áreas ligadas a processos mecânicos; projeto de máquinas; instalações industriais; equipamentos mecânicos e eletromecânicos; veículos automotores, sistemas de produção; sistemas de refrigeração e de ar condicionado; sistemas da qualidade industrial, sem deixar de lado as questões ambientais e de eficiência energética."
+        ],
+        "objetivo": [
+            "Seu objetivo geral é formar profissionais com sólida base conceitual e prática nos conteúdos básicos, profissionalizantes e específicos do curso, para garantir sua intervenção em todos os campos da Engenharia Mecânica."
+        ],
+        "perfilProfissional": [
+            "O profissional terá sólida formação científica e tecnológica no campo da engenharia mecânica. Será capaz de absorver, desenvolver e aplicar tecnologias e com competência para identificação, formulação e resolução de problemas."
+        ],
+        "campoAtuacao": [
+            "• Projeto, execução, fabricação e montagem de instalações industriais, tais como tubulações, leiaute de plantas industriais e estruturas metálicas;",
+            "• Projeto, cálculo de custos, especificação de materiais, execução, fabricação, montagem e manutenção de máquinas em geral, tais como elevadores, máquinas de usinagem e sistema de bombeamento;",
+            "• Desenvolver métodos de otimização do trabalho, procedimentos para programação e controle de produção de processos mecânicos, tais como seqüências de fabricação, montagem e controle da qualidade;",
+            "• Projeto, cálculo de custos, especificação de materiais, execução, fabricação, montagem e manutenção de veículos automotores, tais como assistência técnica, inspeção veicular e perícias;",
+            "• Projeto, cálculo de custos, especificação de materiais, execução, fabricação, montagem e manutenção de sistemas de produção e de utilização de calor, tais como caldeiras, sistemas de refrigeração e de ar condicionado e sistemas de aquecimento solar;",
+            "• Desempenho de cargos e funções técnicas no serviço público e instituições privadas, realização de pesquisas científicas e tecnológicas e ensaios tecnológicos, realização de vistorias, avaliações e laudos técnicos, tais como: confiabilidade do produto, consultorias e docência em ensino superior."
+        ],
+        "formasOferta": [
+            "Diurno, 5 anos"
+        ],
+        "campi": [
+            "Belo Horizonte"
+        ]
+    },
+    {
+        "id": "19",
+        "idtTipo": "graduacao",
+        "caminhoImagem": "https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/Eng-Producao-Civil-Folder-Curso-de-Graduacao-2.jpg_1599748976.jpg",
+        "nome": "Engenharia de Produção Civil",
+        "apresentacao": [
+            "O curso de graduação em Engenharia de Produção Civil, aprovado em 1999, é ministrado no turno noturno, com duração de dez períodos semestrais. O processo de ensino compõe-se de aulas teóricas, em sala de aula convencional e atividades práticas em laboratórios, bem como de visitas técnicas e atividades complementares."
+        ],
+        "objetivo": [
+            "Formar um profissional capaz de integrar os conhecimentos das áreas de Engenharia Civil e de Engenharia de Produção. Ao integrar os conhecimentos de Engenharia Civil e das áreas de Administração Financeira e Economia, o profissional torna-se capaz de atuar na organização e no controle de grandes obras da construção civil, em busca do aumento da eficácia produtiva e do desenvolvimento de sistemas operacionais."
+        ],
+        "perfilProfissional": [
+            "Entre as habilidades principais desenvolvidas, o profissional formado estará capacitado a realizar elaboração de projetos, execução de obras, organização e controle de sistemas produtivos de construção civil, visando a melhoria do produto e da produtividade no trabalho."
+        ],
+        "campoAtuacao": [
+            "O engenheiro de Produção Civil pode atuar em empresas do ramo da Construção Civil e em indústrias ligadas ao setor, em escritórios de projetos, consultoria técnica junto a outras empresas, órgãos públicos, instituições financeiras, em instituições de pesquisa e ensino, den¬tre outras. O profissional pode se dedicar ao projeto e execução de obras civis e serviços afins, bem como ao planejamento, à coordenação e ao controle dos recur¬sos produtivos do homem, da máquina, dos materiais e do ambiente."
+        ],
+        "formasOferta": [
+            "Noturno, 5 anos"
+        ],
+        "campi": [
+            "Belo Horizonte (campus II)"
+        ]
+    },
+    {
+        "id": "20",
+        "idtTipo": "graduacao",
+        "caminhoImagem": "https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/Letras-Folder-Curso-de-Graduacao-2.jpg_1599748976.jpg",
+        "nome": "Letras",
+        "apresentacao": [
+            "O curso de graduação em Letras, aprovado em 2009, pretende preparar o profissional para lidar com as relações entre linguagem e tecnologia. Além dos tradicionais eixos dos estudos linguísticos e literários, são ofertados estudos de técnicas, de processos e de produtos de edição. O curso mantém interfaces com a área da Computação, da Administração e da Comunicação, dado seu cunho tecnológico. Assim, privilegia a formação de profissionais capazes de lidar com diferentes mídias e tratarem projetos para vários tipos de publicação."
+        ],
+        "objetivo": [
+            "O curso de graduação em Letras, com ênfase em Tecnologias de Edição, objetiva formar profissionais preparados para o tratamento de textos originais e sua publicação, tendo em vista as diversas tecnologias de leitura e escrita, de natureza impressa e digital. Visa, ainda, à formação de mediadores da circulação da produção literária, artística cultural e científica, de produtores de conhecimento e de pesquisadores na área."
+        ],
+        "perfilProfissional": [
+            "O profissional irá empregar, com perícia, a língua portuguesa, especialmente, e línguas estrangeiras, eventualmente, tanto na leitura quanto na produção de textos (incluindo edição e revisão). Irá utilizar, de forma eficiente, os recursos informáticos e outros que venham existir em prol da melhor interação entre as pessoas. Irá, a partir do reconhecimento das demandas sociais e organizacionais, facilitar o processo comunicativo em suas relações com as tecnologias da edição, sejam elas tradicionais ou novas."
+        ],
+        "campoAtuacao": [
+            "Os profissionais, ligados ao campo da edição, poderão atuar como editores e revisores de textos em diversos suportes e diferentes mídias. Poderão, também, atuar como gestores e assistentes editoriais, assessores culturais, leitores críticos no campo da literatura e de outros como resumos, resenhas, apresentações, textos de capa de livros, textos de revistas, textos que acompanham edições sonoras, audiovisuais e de multimídia, textos para publicações digitais, tratamento de textos didáticos e paradidáticos, textos de compilação, de documentação técnica, de crítica e de criação literária."
+        ],
+        "formasOferta": [
+            "Noturno, 4 anos"
+        ],
+        "campi": [
+            "Belo Horizonte (campus I)"
+        ]
+    },
+    {
+        "id": "21",
+        "idtTipo": "graduacao",
+        "caminhoImagem": "https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/Formacao-Pedagogica-Folder-Curso-de-Graduacao-2.jpg_1599748976.jpg",
+        "nome": "Programa Especial de Formação de Docentes",
+        "apresentacao": [
+            "O Programa Especial de Formação de Docentes vem somando experiências há mais de três décadas na formação pedagógica de bacharéis ou de tecnólogos. Além disso, o Programa tem atraído profissionais da indústria e do setor serviços que pretendem ampliar suas perspectivas profissionais, passando a atuar também como professores."
+        ],
+        "objetivo": [
+            "Capacitar bacharéis e tecnólogos para o magistério na educação básica e profissional."
+        ],
+        "perfilProfissional": [
+            "Busca-se a formação de um professor que não seja mero reprodutor/repassador de informação, mas profissional crítico, capaz de agir e de participar da vida escolar bem como de produzir conhecimento. Trata-se, ainda, de formar um profissional que, a partir do domínio da área específica ligada à habilitação que deseja no âmbito do magistério, saiba construir e administrar situações de ensino/aprendizagem adequadas à disseminação e assimilação críticas do saber."
+        ],
+        "campoAtuacao": [
+            "O Programa é destinado a portadores de diplomas de nível superior. Seu campo de atuação é a docência nas quatro séries finais do ensino fundamental, no ensino médio e na educação profissional de nível médio. O Programa habilita para o exercício do magistério em disciplinas acadêmicas (Química, Física, Biologia e Matemática) ou disciplinas das áreas técnicas. O profissional receberá certificado e registro profissional equivalentes à licenciatura plena."
+        ],
+        "formasOferta": [
+            "Noturno, 2 anos"
+        ],
+        "campi": [
+            "Belo Horizonte (campus II)"
+        ]
+    },
+    {
+        "id": "22",
+        "idtTipo": "graduacao",
+        "caminhoImagem": "https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/Quimica-Tecnologica-Folder-Curso-de-Graduacao-2.jpg_1599748976.jpg",
+        "nome": "Química Tecnológica",
+        "apresentacao": [
+            "O Curso de Graduação em Química Tecnológica, implantado em 2006, foi organizado para atender às necessidades regionais, que, por sua vez, definiram as principais áreas a serem abordadas: Meio Ambiente; Alimentos e Bebidas; Óleos e Combustíveis; Indústrias de Produtos Químicos e Mineração."
+        ],
+        "objetivo": [
+            "O Curso de Graduação em Química Tecnológica do CEFET- MG tem como objetivo geral formar profissionais com sólida base conceitual, prática e preparados para atuarem no processo produtivo e no desenvolvimento técnico e científico do país. Instrumentalizados com habilidades e conhecimentos capazes de propiciarem não só uma inserção competitiva no mercado de trabalho, mas principalmente, capacitá-los a realizar estudos teóricos, investigações, experimentos e análises de matérias primas, produtos acabados e de interesse ambiental. Esse profissional será permanentemente atualizado com as técnicas e processos de sua área de domínio tecnológico e poderá ser inserido em projetos de pesquisa e de ensino, sob orientação dos professores do Departamento de Química, de outras unidades do CEFET-MG e de profissionais ligados a entidades extra- universitárias."
+        ],
+        "perfilProfissional": [
+            "Das 16 atividades ou competências regulamentadas pelo Conselho Federal de Química (CFQ) através da Resolução Normativa C.F.Q. nº 36 de 25/04/74 publicada no DOU em 13/05/74, os profissionais Bacharéis em Química Tecnológica recebem 13 atribuições no desempenho de suas atividades. No caso do curso proposto pelo CEFET-MG, estas competências serão ainda ampliadas para a atuação dos profissionais em: Realizar análises microbiológicas, conhecer e saber operar os equipamentos básicos; Conhecer os processos de biossíntese biotecnológicos e as principais técnicas e aplicações da biotecnologia de DNA recombinante."
+        ],
+        "campoAtuacao": [
+            "Os profissionais da Química Tecnológica poderão atuar em vários segmentos da indústria, em instituições de ensino, desenvolvimento de novos produtos e de novas tecnologias. Além disso, os Centros de Pesquisa (CDTN, CETEC, FUNED, UFMG) também representam importantes fontes de oferta de emprego."
+        ],
+        "formasOferta": [
+            "Diurno, 4 anos e meio"
+        ],
+        "campi": [
+            "Belo Horizonte (campus I)"
+        ]
+    },
+    {
+        "id": "23",
+        "idtTipo": "graduacao",
+        "caminhoImagem": "https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/Administracao-Folder-Curso-de-Graduacao-2.jpg_1599748976.jpg",
+        "nome": "Administração",
+        "apresentacao": [
+            "O curso de graduação em Administração, criado em 2007, reconhecido em 2010, é considerado um dos melhores cursos do País: conceito 5, em uma escala de 0 e 5. Busca preparar profissionais para desenvolver competências e habilidades que os encaminhem ao conhecimento do seu papel ético nas organizações e para proporcionar sólida formação na área de administração."
+        ],
+        "objetivo": [
+            "Planejar, organizar, dirigir, coordenar e controlar processos técnicos que visem à otimização das áreas de Recursos Humanos, Finanças, Produção e Marketing. Desempenhar funções técnicas e gerenciais em organizações de qualquer natureza. Elaborar e coordenar planos para o desenvolvimento das organizações, considerando influências de fatores econômicos, socioculturais, ambientais, políticos e tecnológicos."
+        ],
+        "perfilProfissional": [
+            "O administrador deve possuir a compreensão crítica e criativa das questões sociais, científicas, técnicas e econômicas da produção, bem como de seu gerenciamento, levando-se em consideração os níveis graduais do processo decisório, para bem elaborar, implementar e consolidar projetos nas diversas áreas de administração."
+        ],
+        "campoAtuacao": [
+            "O campo de atuação é bastante amplo: atua em atividades gerenciais e produtivas tanto de organizações privadas quanto públicas. Trabalha, principalmente, nas áreas de Administração Geral, Marketing, Recursos Humanos, Finanças, Produção e Logística. Têm sido bem aceitos como Gerentes, Analistas e como Proprietários e/ou Presidentes de diferentes organizações."
+        ],
+        "formasOferta": [
+            "Noturno, 4 anos"
+        ],
+        "campi": [
+            "Belo Horizonte (campus II)"
+        ]
+    },
+    {
+        "id": "24",
+        "idtTipo": "graduacao",
+        "caminhoImagem": "https://www.cefetmg.br/portalcefet/export/sites/portalcefet/galeria_multimidia/galeria_fotos/arquivos/Cursos/Eng-Ambiental-Folder-Curso-de-Graduacao-2.jpg_1599748976.jpg",
+        "nome": "Engenharia Ambiental e Sanitária",
+        "apresentacao": [
+            "A oferta da graduação em Engenharia Ambiental e Sanitária teve início em 2010. O curso foi estruturado para que contemplasse o estudo, o desenvolvimento e o emprego de tecnologias ambientais de forma aplicada, buscando, assim, a interação com setores industriais e urbanos."
+        ],
+        "objetivo": [
+            "O curso contempla a análise e caracterização ambiental, a aplicação e desenvolvimento de tecnologias sustentáveis nas questões ambientais, industriais e urbanas, bem como o planejamento e a gestão ambiental."
+        ],
+        "perfilProfissional": [
+            "O profissional em Engenharia Ambiental e Sanitarista estará capacitado a realizar o planejamento ambiental de obras de engenharia bem como a conduzir os estudos para seu licenciamento. Estará habilitado a conduzir auditoria ambiental e investigação de passivos ambientais. Poderá realizar projetos de obras sanitárias (saneamento, resíduos líquido-sólidos e drenagem), de recuperação e restauração de áreas contaminadas ou degradadas e de controle e tratamento da poluição do solo, ar e água. Com seus conhecimentos em gestão na execução de obras de engenharia e na indústria, será o profissional adequado a fomentar a preservação ambiental, através do adequado manejo dos recursos naturais. Poderá, ainda atuar no desenvolvimento de modelos matemáticos aplicados ao meio ambiente (técnicas quantitativas e qualitativas)."
+        ],
+        "campoAtuacao": [
+            "Os engenheiros ambientais e sanitaristas têm hoje um vasto campo de atuação, tanto em empresas privadas como nas públicas. Tais profissionais são encontrados em órgãos públicos de licenciamento e monitoramento ambiental e agências reguladoras; órgãos de planejamento ambiental; empresas públicas e privadas de saneamento ambiental; empresas de projetos de infraestrutura hídrica, de sistemas de abastecimento, coleta e tratamento de águas residuárias, de esgotos domésticos e de resíduos sólidos. Para isso, atuarão em projetos de drenagem urbana, de implantação de sistemas de gestão integrada e de gestão ambiental em indústrias. Estarão empregados em empresas privadas, com atuação na área do meio ambiente e saneamento, envolvendo estudos de impacto ambiental e recuperação de áreas degradadas. Ao lado disso, terão inserção na área acadêmica."
+        ],
+        "formasOferta": [
+            "Diurno, 5 anos"
+        ],
+        "campi": [
+            "Belo Horizonte (campus I)"
+        ]
     }
 ]
